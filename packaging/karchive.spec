@@ -9,7 +9,7 @@ Name:       karchive
 # << macros
 
 Summary:    KDE Frameworks 5 Tier 1 addon with archive functions
-Version:    5.2.0
+Version:    5.3.0
 Release:    1
 Group:      System/Base
 License:    GPLv2+
